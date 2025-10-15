@@ -1,4 +1,4 @@
-# Desafio de Teste de Software para Estagiário de QA
+# Desafio de Teste de Software para QA
 
 Olá, candidato(a)! Boas-vindas ao nosso desafio de Quality Assurance.
 
